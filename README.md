@@ -31,7 +31,7 @@ go to http://localhost:3000/home
 
 ## Technologies we used
 
-In this project we have used the following technologies:
+In this project I have used the following technologies:
 
 - Nodejs
 - Expressjs
@@ -53,15 +53,6 @@ In this project we have used the following technologies:
     - bcryptjs
     - cors
 
-## Team Members and Contributors :
-### Bicky Dutta
-- Github : https://github.com/imbickydutta
-
-### Deevanshu Kumawat
-- Github : https://github.com/dvanshukumawat
-
-### Hemanth Kumar Kona
-- Github : https://github.com/hmntk
 
 
 
